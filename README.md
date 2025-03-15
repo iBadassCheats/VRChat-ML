@@ -1,2 +1,3 @@
 # VRChat-ML
-Melon Loader for VRChat (by Sprite Loader)
+## Tutorial:
+Select all Files and put in VRChat Game folder, Start VRChat.exe.
